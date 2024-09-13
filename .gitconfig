@@ -1,0 +1,7 @@
+[user]
+	name = usman1100
+	email = usmanahmed1100@gmail.com
+[alias]
+	co = checkout
+[init]
+	defaultBranch = main
